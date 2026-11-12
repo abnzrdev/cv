@@ -2,7 +2,7 @@
 
 Personal portfolio and printable CV for Abenezer Alemayehu Lemma.
 
-**Website:** https://abnzrdev.github.io/rsschool-cv/
+**Website:** https://abnzrdev.github.io/cv/
 
 The site showcases professional experience, selected software projects, public team contributions, education, research, and contact information. Click **Print / Save CV** on the website for a print-friendly layout.
 
