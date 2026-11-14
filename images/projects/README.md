@@ -16,4 +16,4 @@ Still needed (suggested desktop width: 1440px; WebP or PNG, readable at card wid
 - `limmud-workspace.webp`: current Limmud build with a public sample lesson and Markdown notes. The older Melha-branded capture is not labeled as Limmud.
 - `alchemists-cauldron-gameplay.webp`: actual deployed game with ingredients, recipe targets, and cauldron visible.
 
-Missing files are intentionally not requested by the page. Add a browser-frame figure using the existing markup when an approved image is supplied. No fake screenshot or empty screenshot box is rendered.
+The Figma implementation uses reviewed Breez and Barii captures in the large 16:9 preview slots. AI Phoenix, Aman AI, and Limmud have clearly labeled “Application screenshot required” placeholders matching the approved layout; missing image paths are never requested. The compact projects do not require screenshot slots. Replace a placeholder with an approved image when one is supplied.
